@@ -1,0 +1,13 @@
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\bin\Debug\netcoreapp3.1\DECISION MAKING.exe
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\bin\Debug\netcoreapp3.1\DECISION MAKING.deps.json
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\bin\Debug\netcoreapp3.1\DECISION MAKING.runtimeconfig.json
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\bin\Debug\netcoreapp3.1\DECISION MAKING.runtimeconfig.dev.json
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\bin\Debug\netcoreapp3.1\DECISION MAKING.dll
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\bin\Debug\netcoreapp3.1\DECISION MAKING.pdb
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.csprojAssemblyReference.cache
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.AssemblyInfoInputs.cache
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.AssemblyInfo.cs
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.csproj.CoreCompileInputs.cache
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.dll
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.pdb
+D:\Grand Circus\DECISION MAKING\DECISION MAKING\obj\Debug\netcoreapp3.1\DECISION MAKING.genruntimeconfig.cache
